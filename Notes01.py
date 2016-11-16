@@ -3,36 +3,35 @@ def cls():
 #
 cls()
 #
-studentFirstName="Keeley"
-studentLastName="Gould"
+studentFirstName="Neale"
+studentLastName="McMillan"
 heyy=studentFirstName+" "+studentLastName
 #
-print (heyy)
+print (yeahhhhboyyyyyyy)
 print (studentLastName+",\t\n", studentFirstName)
 print(studentLastName+"\t"+studentFirstName)
 print() #spacer line
 #
 #
-boi1="exptextt"
-#
-print (boi1)
-print (boi1.upper())
+RedBaron1="exptextt"
+print (RedBaron1)
+print (RedBaron1.upper())
 #
 print() #spacer line
 #
-boi2="Engineering Class Experiment"
-print (boi2)
-print (boi2.center(35,"-"))
+RedBaron2="Engineering Class Experiment"
+print (RedBaron2)
+print (RedBaron2.center(35,"-"))
 #
 str="hello\tworld"
 print (str)
 print (str.expandtabs(tabsize=15))
 #
-print (boi2[0:1])
-print (boi2[0:2])
-print (boi2[0:3])
-print (boi2[0:4])
+print (RedBaron2[0:1])
+print (RedBaron2[0:2])
+print (RedBaron2[0:3])
+print (RedBaron2[0:4])
 #
-tipp = r'c:\trash'
-print (tipp)
+tripp = r'c:\trash'
+print (tripp)
 
